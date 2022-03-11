@@ -1,11 +1,13 @@
 import React from "react";
-import {Sidebar} from "./Sidebar";
+import { Tasks } from "../Tasks";
+import { Sidebar } from "./Sidebar";
 
 const Content = () => {
   return (
-    <div>
+    <section>
       <Sidebar />
-    </div>
+      <Tasks />
+    </section>
   );
 };
 

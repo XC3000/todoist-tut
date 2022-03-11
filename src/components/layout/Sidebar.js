@@ -1,5 +1,5 @@
 import React from "react";
-import { FaInbox, FaRegCalendar, FaRegCalendarAlt } from "react-icons/fa";
+import { FaInbox, FaRegCalendar, FaRegCalendarAlt,FaChevronDown } from "react-icons/fa";
 
 export const Sidebar = () => {
   return (
